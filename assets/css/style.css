@@ -1,0 +1,19 @@
+
+
+h4{
+    
+    height: 30px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 100%;
+    overflow: hidden;
+    text-transform: capitalize;
+
+}
+p{
+    height: 100px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space:initial;
+    text-align: left;
+}
